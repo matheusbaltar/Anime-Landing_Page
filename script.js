@@ -51,7 +51,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    setInterval(createCherryBlossom, 250); 
+    setInterval(createCherryBlossom, 300); 
 });
 
 
